@@ -206,11 +206,11 @@
 
     // date
     // TODO
-    "date.title": "Date",
-    "date.warning": "Some things won't update until a night has passed.",
-    "date.year": "Year",
-    "date.season": "Season",
-    "date.day": "Day",
+    "date.title": "Datum",
+    "date.warning": "Manche Dinge updatet sich erst, wenn eine Nacht vergangen ist",
+    "date.year": "Jahr",
+    "date.season": "Jahreszeit",
+    "date.day": "Tag",
 
 
     /*********
